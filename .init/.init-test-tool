@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/career-profile-builder-42831-42724/frontend_nextjs"
+}
